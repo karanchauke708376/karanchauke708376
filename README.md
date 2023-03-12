@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karanchauke708376
-- 👀 I’m interested in coding and Improving Problem Solving 
-- 🌱 I’m currently learning MCA 
-- 💞️ I’m looking to collaborate on java developer DSA
+- 👀 I’m interested Problem Solving and Web Development 
+- 🌱 I’m currently learning MCA II Yr 2023
+- 💞️ I’m looking to collaborate on Web Development 
 - 📫 How to reach me gmail karanchauke7083@gmial.com
 
 <!---
